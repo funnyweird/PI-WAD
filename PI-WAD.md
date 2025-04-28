@@ -6,7 +6,7 @@ O objetivo é permitir que pessoas que precisam lidar com muitas tarefas diferen
 O sistema vai focar em ser acessível, eficiente e amigável para o usuário, proporcionando uma ferramenta que facilite a gestão de tempo e compromissos pessoais ou profissionais.
 
 # 2. Persona
-![Persona - Lara]()
+![Persona - Lara](https://github.com/funnyweird/PI-WAD/blob/main/Lara%20Persona.png)
 
 # 3. User Stories
 
