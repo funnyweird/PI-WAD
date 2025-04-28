@@ -1,14 +1,17 @@
 # 1. Introdução
 
-Para o projeto individual, escolhi desenvolver um **Gerenciador de Tarefas**. 
-A ideia principal é criar um sistema web simples e prático para ajudar usuários a organizarem melhor suas atividades do dia a dia.
+Para o projeto individual, escolhi desenvolver um **Gerenciador de Tarefas**.  
+A ideia principal é criar um sistema web simples e prático para ajudar usuários a organizarem melhor suas atividades do dia a dia.  
 O objetivo é permitir que pessoas que precisam lidar com muitas tarefas diferentes, como estudantes, artistas e streamers, consigam cadastrar, visualizar, editar e concluir suas tarefas de forma rápida e intuitiva.  
 O sistema vai focar em ser acessível, eficiente e amigável para o usuário, proporcionando uma ferramenta que facilite a gestão de tempo e compromissos pessoais ou profissionais.
 
 # 2. Persona
+
+## 2.1 - Persona
+
 ![Persona - Lara](https://github.com/funnyweird/PI-WAD/blob/main/Lara%20Persona.png)
 
-# 3. User Stories
+## 2.2 - User Stories
 
 **US01** | Como escritora iniciante, quero adicionar novas tarefas com prazos definidos, para que eu consiga gerenciar meus textos e entregas sem perder prazos.
 
